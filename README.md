@@ -1,2 +1,2 @@
-# IIT-TecheFest
-prediction using Linear Regression model
+# IIT-TecheFest - Jan 16,2021
+Prediction using Linear Regression model
